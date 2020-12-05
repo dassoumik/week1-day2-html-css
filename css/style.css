@@ -1,0 +1,78 @@
+#bio-image {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.h1center {
+    text-align: center;
+    color: #eee;
+    font-size: 28px;
+    background-color: #333333;
+    margin: 0%;
+    padding: 0%;
+}
+
+.float-right {
+    float: right;
+    margin-top: 0;
+    margin-right: 120px;
+    padding-top: 0;
+    position: relative;
+    top: -100px;
+}
+
+.bold{
+    text-emphasis: bold;
+}
+
+#contact-info {
+    float: right;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 120px;
+    padding-top: 0;
+    position: relative;
+    top: -225px;
+    right: -60px;
+}
+
+body {
+    background-color: #efeee7;
+    font: Georgia;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+  font-size: 24px; 
+}
+
+.width-70 {
+    width: 70%;
+}
+
+.width-30 {
+    width: 30%;
+}
+
+.margin-left {
+    margin-left: 20px;
+}
+
+.color-a {
+    color: #d21034;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.margin-rt-0 {
+    margin-right: 0;
+}
